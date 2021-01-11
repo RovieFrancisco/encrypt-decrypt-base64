@@ -7,7 +7,7 @@ This simple app is able to Encrypt Strings or Characters into Base64 and Decrypt
 [![Instagram](https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franz0515)
 
 ## :heavy_check_mark: Screenshots
-Below are examples screenshots on how encryption and decryption works.
+Below are example screenshots on how encryption and decryption works.
 
 ## Start Up
 ![Screenshot_20210111-120754](https://user-images.githubusercontent.com/40444648/104146614-49d27b80-5406-11eb-90f9-d740c6e5e9c6.png)
